@@ -215,7 +215,7 @@ function updateUptime() {
 
 function refreshTimer() {
   if (time <= 0) {
-    time = 30;
+    time = 5;
     refreshSessionTable();
   }
 
