@@ -1,4 +1,4 @@
-let time = 30;
+let time = 5;
 let serverStartTime = 0;
 
 function generateSessionsTable(sessionsData) {
